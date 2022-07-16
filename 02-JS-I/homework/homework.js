@@ -3,7 +3,7 @@
 const EleventyErrorHandler = require("@11ty/eleventy/src/EleventyErrorHandler");
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = hola1;
+const nuevaString = Carlos;
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 5;
